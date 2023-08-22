@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-gXPhkADXzCdY3Jh0",
+      "name": "Anton",
+      "description": "aku",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": 15.378582,
+      "lon": -11.1367
+    },
+    {
+      "id": "story-KCQ-xWAoVjAXqitp",
+      "name": "daniel",
+      "description": "\"kaori chan\"",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-yjG2cP01l6OmURQQ",
+      "name": "daniel",
+      "description": "\"dsdssfdfdfdfdfdf\"",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-KoFBv_r1Ccu4LkWu",
+      "name": "daniel",
+      "description": "tes",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-2wg2DpQ0XVAENuE6",
+      "name": "daniel",
+      "description": "test",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": 15.378582,
+      "lon": -11.1367
+    },
+    {
+      "id": "story-tFUFKV2WsOvd8T2l",
+      "name": "Anton",
+      "description": "a",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": 15.378582,
+      "lon": -11.1367
+    },
+    {
+      "id": "story-xI6OjuZ3FlbQz0Am",
+      "name": "daniel123",
+      "description": "semoga bisa",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": 15.378582,
+      "lon": -11.1367
+    },
+    {
+      "id": "story-WYQ5ISGq4DCFjiIX",
+      "name": "Anton",
+      "description": "kko",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": 15.378582,
+      "lon": -11.1367
+    },
+    {
+      "id": "story-TdTAyaqqZETy4QOO",
+      "name": "anto",
+      "description": "coba",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": 15.378582,
+      "lon": -11.1367
+    },
+    {
+      "id": "story-67r-qW4lc-Z61zgq",
+      "name": "Anton",
+      "description": "i",
+      "photoUrl": "https://images.beinsports.com/8ejUVKNq9Lve0fu3zGV49yW_bk4=/full-fit-in/1000x0/haaland-cropped_1j7wi84fi26zo11yh0u089jfzt.jpg",
+      "createdAt": "2023-07-08T07:32:19.121Z",
+      "lat": 15.378582,
+      "lon": -11.1367
+    }
+  ]
+}
